@@ -1,7 +1,6 @@
 # 👩‍🌾 Mulheres no Campo: A Jornada de Lavinya 🚜
 
-![Capa do Projeto - Uma imagem de Lavinya sorrindo no campo, ou uma imagem representativa da força da mulher agricultora em estilo cartoon]
-(./assets/img/agricultora_cuidando.jpg)
+![Capa do Projeto - Lavinya cuidando, representando a mulher agricultora em estilo cartoon](./assets/img/agricultora_cuidando.jpg)
 Este projeto é uma página web interativa criada para o **Programa Agrinho 2025**, com foco em destacar a importância das mulheres no agronegócio e na agricultura familiar. Através de uma história envolvente e visual, o site permite ao usuário acompanhar a jornada de Lavinya, uma agricultora, e entender os desafios e contribuições femininas no campo.
 
  Estrutura do Projeto
